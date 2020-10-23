@@ -1,0 +1,16 @@
+{
+  "name": "part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node task1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
+}
